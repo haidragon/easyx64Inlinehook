@@ -1,0 +1,18 @@
+﻿  x64Inlinehook.cpp
+e:\学习资料\注入与hook\chapter2\code\x64inlinehook\x64inlinehook\x64inlinehook.cpp(9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HWND”
+e:\学习资料\注入与hook\chapter2\code\x64inlinehook\x64inlinehook\x64inlinehook.cpp(9): warning C4313: “printf”: 格式字符串中的“%x”与“HWND”类型的参数 1 冲突
+e:\学习资料\注入与hook\chapter2\code\x64inlinehook\x64inlinehook\x64inlinehook.cpp(9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“LPCWSTR”
+  e:\学习资料\注入与hook\chapter2\code\x64inlinehook\x64inlinehook\x64inlinehook.cpp(9): note: 请考虑在格式字符串中使用“%ls”
+  e:\学习资料\注入与hook\chapter2\code\x64inlinehook\x64inlinehook\x64inlinehook.cpp(9): note: 请考虑在格式字符串中使用“%lls”
+  e:\学习资料\注入与hook\chapter2\code\x64inlinehook\x64inlinehook\x64inlinehook.cpp(9): note: 请考虑在格式字符串中使用“%Ls”
+  e:\学习资料\注入与hook\chapter2\code\x64inlinehook\x64inlinehook\x64inlinehook.cpp(9): note: 请考虑在格式字符串中使用“%ws”
+e:\学习资料\注入与hook\chapter2\code\x64inlinehook\x64inlinehook\x64inlinehook.cpp(9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 3 拥有了类型“LPCWSTR”
+  e:\学习资料\注入与hook\chapter2\code\x64inlinehook\x64inlinehook\x64inlinehook.cpp(9): note: 请考虑在格式字符串中使用“%ls”
+  e:\学习资料\注入与hook\chapter2\code\x64inlinehook\x64inlinehook\x64inlinehook.cpp(9): note: 请考虑在格式字符串中使用“%lls”
+  e:\学习资料\注入与hook\chapter2\code\x64inlinehook\x64inlinehook\x64inlinehook.cpp(9): note: 请考虑在格式字符串中使用“%Ls”
+  e:\学习资料\注入与hook\chapter2\code\x64inlinehook\x64inlinehook\x64inlinehook.cpp(9): note: 请考虑在格式字符串中使用“%ws”
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  APIHook64Class.cpp
+  x64Inlinehook.vcxproj -> E:\学习资料\注入与hook\chapter2\code\x64Inlinehook\x64\Debug\x64Inlinehook.exe
+  x64Inlinehook.vcxproj -> E:\学习资料\注入与hook\chapter2\code\x64Inlinehook\x64\Debug\x64Inlinehook.pdb (Full PDB)
